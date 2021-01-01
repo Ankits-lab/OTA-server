@@ -1,11 +1,10 @@
 {
 "version":"android-11.0",
-"filename":"file name here",
-"datetime":date and time here,
-"size":file size here,
-"url":"url here",
-"filehash":"f387bb17b13a423cb7b8a305e11333e3",
-"id":"da26ceab5c446fc5fe4f1256faebd1b0f523ee7e4a57bb4839b0871ffe45fb76",
+"filename":"AncientOS-R-Society-v5.0-PL2-Iron-20210101-1659-Vanilla.zip",
+"size":649717474,
+"url":"https://gitlab.com/keneankit01/ancient_test_builds/-/raw/master/AncientOS-R-Society-v5.0-PL2-Iron-20210101-1659-Vanilla.zip?inline=false",
+"filehash":"d61245629e54d045b3dd65f9a8317de0",
+"id":"8b041ff30d6e9b09d7e4307e26e00946d383c0170e597e062771eee5608eb571",
 "whatsNew":"- ITS JUST FOR TESTING",
 "notification":"Sofware update - New Ancient OS update"
 }
